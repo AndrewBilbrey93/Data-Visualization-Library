@@ -1,8 +1,8 @@
-#### Python Data Visualization
+# Python Data Visualization
 
 This repository showcases various data visualization projects and examples utilizing popular Python libraries. The goal is to demonstrate effective techniques for visualizing data and conveying insights.
 
-### Visualization Libraries Used
+## Visualization Libraries Used
 
 Matplotlib: A fundamental library for creating static, animated, and interactive visualizations in Python.
 Pandas: Not only a data manipulation library but also provides built-in functions for quick and easy visualizations.
@@ -20,22 +20,22 @@ Exploratory Data Analysis: Visualizing relationships in the data to identify pat
 Statistical Graphics: Creating visual representations of statistical information to convey insights clearly.
 Interactive Visualizations: Building dynamic dashboards that allow users to interact with the data in real-time.
 
-## Getting Started
+### Getting Started
 
 To run the visualizations in this repository, ensure you have the required libraries installed. You can set up the environment with the following command:
 
-# bash
+### bash
 
 pip install -r requirements.txt
 
-# Example Visualizations
+### Example Visualizations
 
 You can find examples of different visualization techniques in the respective Jupyter notebooks stored in this repository. Each notebook demonstrates a specific use case and highlights how to effectively utilize the respective libraries.
 
-# Contributing
+### Contributing
 
 Contributions and feedback are highly encouraged! Feel free to submit issues or pull requests to enhance these visualizations.
 
-# License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for more information.
