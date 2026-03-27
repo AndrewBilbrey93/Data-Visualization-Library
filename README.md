@@ -30,10 +30,6 @@ Interactive Visualizations: Building dynamic dashboards that allow users to inte
 
 To run the visualizations in this repository, ensure you have the required libraries installed. You can set up the environment with the following command:
 
-### bash
-
-pip install -r requirements.txt
-
 ### Example Visualizations
 
 You can find examples of different visualization techniques in the respective Jupyter notebooks stored in this repository. Each notebook demonstrates a specific use case and highlights how to effectively utilize the respective libraries.
@@ -42,6 +38,3 @@ You can find examples of different visualization techniques in the respective Ju
 
 Contributions and feedback are highly encouraged! Feel free to submit issues or pull requests to enhance these visualizations.
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for more information.
