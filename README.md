@@ -5,11 +5,17 @@ This repository showcases various data visualization projects and examples utili
 ## Visualization Libraries Used
 
 Matplotlib: A fundamental library for creating static, animated, and interactive visualizations in Python.
+
 Pandas: Not only a data manipulation library but also provides built-in functions for quick and easy visualizations.
+
 Seaborn: Built on top of Matplotlib, Seaborn simplifies the creation of attractive and informative statistical graphics.
+
 Plotly: A library that allows for interactive plotting and web-based dashboards, providing features for higher-level interactivity.
+
 Plotly Express: A high-level interface for Plotly that makes it easier to create complex visualizations with minimal code.
+
 Dash: A web application framework for Python that enables the creation of interactive, web-based dashboards using Plotly.
+
 Bokeh: Designed for creating interactive visualizations for modern web browsers, suitable for streaming and real-time data.
 
 ### Projects Overview
