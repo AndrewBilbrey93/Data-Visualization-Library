@@ -18,7 +18,7 @@ Dash: A web application framework for Python that enables the creation of intera
 
 Bokeh: Designed for creating interactive visualizations for modern web browsers, suitable for streaming and real-time data.
 
-### Projects Overview
+## Projects Overview
 
 This repository includes examples showcasing how to use the above libraries for various types of visualizations:
 
